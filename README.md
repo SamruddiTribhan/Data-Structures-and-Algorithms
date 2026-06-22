@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
+## String
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3614-process-string-with-special-operations-ii) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
