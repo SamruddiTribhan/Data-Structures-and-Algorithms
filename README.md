@@ -11,9 +11,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
 ## Design
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3614-process-string-with-special-operations-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3614-process-string-with-special-operations-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
