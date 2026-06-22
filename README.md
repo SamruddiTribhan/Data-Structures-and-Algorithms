@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
