@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2029-stone-game-ix](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
