@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2029-stone-game-ix](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3731-find-missing-elements](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 ## Hash Table
