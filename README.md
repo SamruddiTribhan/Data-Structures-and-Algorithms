@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SamruddiTribhan/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
